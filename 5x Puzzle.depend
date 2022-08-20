@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1612806584 source:d:\my class\group project\5x puzzle\5x puzzle\main.cpp
+	"declarations.h"
+	"functions.h"
+
+1612807306 d:\my class\group project\5x puzzle\5x puzzle\declarations.h
+	<cmath>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	<fstream>
+	<graphics.h>
+	<iostream>
+
+1612807306 d:\my class\group project\5x puzzle\5x puzzle\functions.h
+
+1612762379 source:d:\5x\5x puzzle\main.cpp
+	"declarations.h"
+	"functions.h"
+
+1612756829 d:\5x\5x puzzle\declarations.h
+	<cmath>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	<fstream>
+	<graphics.h>
+	<iostream>
+
+1612762798 d:\5x\5x puzzle\functions.h
+
+1612769014 source:e:\5x puzzle\main.cpp
+	"declarations.h"
+	"functions.h"
+
+1612780757 e:\5x puzzle\declarations.h
+	<cmath>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	<fstream>
+	<graphics.h>
+	<iostream>
+
+1612791170 e:\5x puzzle\functions.h
+
+1612806584 source:d:\5x puzzle\main.cpp
+	"declarations.h"
+	"functions.h"
+
+1612807306 d:\5x puzzle\declarations.h
+	<cmath>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	<fstream>
+	<graphics.h>
+	<iostream>
+
+1612807306 d:\5x puzzle\functions.h
+
+1612806586 source:d:\my class\2nd semester\group project\5x puzzle\5x puzzle\main.cpp
+	"declarations.h"
+	"functions.h"
+
+1612807308 d:\my class\2nd semester\group project\5x puzzle\5x puzzle\declarations.h
+	<cmath>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	<fstream>
+	<graphics.h>
+	<iostream>
+
+1612807308 d:\my class\2nd semester\group project\5x puzzle\5x puzzle\functions.h
+
+1612806586 source:e:\my class\2nd semester\group project\5x puzzle\5x puzzle\main.cpp
+	"declarations.h"
+	"functions.h"
+
+1612807308 e:\my class\2nd semester\group project\5x puzzle\5x puzzle\declarations.h
+	<cmath>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	<fstream>
+	<graphics.h>
+	<iostream>
+
+1612807308 e:\my class\2nd semester\group project\5x puzzle\5x puzzle\functions.h
+

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="5x_Puzzle" targetName="5x_Puzzle" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c972d2e1-e5aa-42d4-af25-106a6fc27961" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1oCt93gLU7vQWglbQp5UyxdLxE6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="5x_Puzzle" type="CMakeRunConfiguration" factoryName="Application" singleton="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="5x_Puzzle" TARGET_NAME="5x_Puzzle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="5x_Puzzle" RUN_TARGET_NAME="5x_Puzzle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c972d2e1-e5aa-42d4-af25-106a6fc27961" name="Default Changelist" comment="" />
+      <created>1612802249457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612802249457</updated>
+      <workItem from="1612802262822" duration="2437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612807464582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612807464582" />
+    <state x="710" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612807377100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612807377100" />
+    <state x="279" y="112" key="FileChooserDialogImpl" timestamp="1612806288765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="112" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612806288765" />
+    <state width="1637" height="326" key="GridCell.Tab.0.bottom" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state width="1637" height="326" key="GridCell.Tab.0.center" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state width="1637" height="326" key="GridCell.Tab.0.left" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state width="1637" height="326" key="GridCell.Tab.0.right" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state width="1637" height="326" key="GridCell.Tab.1.bottom" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state width="1637" height="326" key="GridCell.Tab.1.center" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state width="1637" height="326" key="GridCell.Tab.1.left" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state width="1637" height="326" key="GridCell.Tab.1.right" timestamp="1612807540829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1637" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612807540829" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1612806128625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612806128625" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1612802270989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612802270989" />
+  </component>
+</project>

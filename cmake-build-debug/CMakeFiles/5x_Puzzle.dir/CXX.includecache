@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/5x Puzzle/declarations.h
+cmath
+-
+conio.h
+-
+cstdio
+-
+cstdlib
+-
+ctime
+-
+dos.h
+-
+fstream
+-
+graphics.h
+-
+iostream
+-
+
+D:/5x Puzzle/functions.h
+
+D:/5x Puzzle/main.cpp
+declarations.h
+D:/5x Puzzle/declarations.h
+functions.h
+D:/5x Puzzle/functions.h
+
